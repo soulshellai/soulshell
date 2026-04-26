@@ -1,13 +1,21 @@
+<div align="center">
+
+![SoulShell Banner](./banner.png)
+
 # SoulShell
 
-> Cognition OS for brains that refuse to behave.
+### Cognition OS for brains that refuse to behave.
 
 A workspace that thinks **with** you, not **at** you. Built for neurodivergent minds, chaotic thinkers, and anyone whose brain doesn't fit in a spreadsheet.
 
-🌐 **Live:** [soulshell.xyz](https://soulshell.xyz)
-🐦 **Twitter:** [@soulshellai](https://x.com/soulshellai)
-💬 **Telegram:** [t.me/soulshellofficial](https://t.me/soulshellofficial)
-🪙 **Token:** $SHELL on pump.fun (launching April 27, 2026 · 6 PM UTC)
+[![Website](https://img.shields.io/badge/Website-soulshell.xyz-ea580c?style=for-the-badge)](https://soulshell.xyz)
+[![Twitter](https://img.shields.io/badge/Twitter-@soulshellai-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/soulshellai)
+[![Telegram](https://img.shields.io/badge/Telegram-soulshellai-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/soulshellai)
+[![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
+
+🪙 **$SHELL Token launches Monday, April 27, 2026 · 6 PM UTC · pump.fun**
+
+</div>
 
 ---
 
@@ -15,9 +23,9 @@ A workspace that thinks **with** you, not **at** you. Built for neurodivergent m
 
 Most productivity apps are built for neurotypical brains — rigid lists, checkbox grids, templates. That's great if your brain works in straight lines. If it doesn't, those tools become another source of guilt.
 
-SoulShell is different. It has three modules designed to match how chaotic brains actually work:
+SoulShell is different. Three modules designed to match how chaotic brains actually work:
 
-- **🧠 Workspace** — A visual canvas for your scattered thoughts. Sticky notes you can drag, connect, and reorganize like a mind map.
+- **🧠 Workspace** — A visual canvas for scattered thoughts. Sticky notes you can drag, connect, and reorganize like a mind map.
 - **💬 AI Mirror** — An AI that reflects your patterns instead of bossing you around. Vent, ramble, think out loud — it listens.
 - **⚡ Synthesize** — One button reads everything (notes + mirror chat + tasks) and turns it into a personalized action plan.
 
@@ -94,6 +102,7 @@ Open `http://localhost:8000` in your browser.
 
 ```
 soulshell/
+├── banner.png              # Repo banner
 ├── index.html              # Landing page
 ├── dashboard.html          # Main app (SPA)
 ├── tokenomics.html         # $SHELL token info
@@ -102,9 +111,10 @@ soulshell/
 ├── risk-disclosure.html    # Risk disclosure for $SHELL
 ├── database.sql            # MySQL schema + migrations
 ├── api/
-│   ├── index.php           # REST API (23 endpoints)
+│   ├── index.php           # REST API (24 endpoints)
 │   └── config.example.php  # Config template (copy to config.php)
 ├── .gitignore
+├── LICENSE
 └── README.md
 ```
 
@@ -123,9 +133,12 @@ SoulShell launches its utility token `$SHELL` via a **100% fair launch on pump.f
 ### Utility Tiers (Post-Launch)
 
 Holding $SHELL unlocks features inside SoulShell:
-- **5,000 $SHELL** → Premium AI (Claude Opus access)
-- **25,000 $SHELL** → Unlimited workspaces
-- **100,000 $SHELL** → Governance voting rights
+
+| Tier | Hold | Unlock |
+|------|------|--------|
+| 🟠 **Activated** | 5,000 $SHELL | Premium AI (Claude Opus access) |
+| 🟠 **Infinite** | 25,000 $SHELL | Unlimited workspaces |
+| 🟠 **Genesis** | 100,000 $SHELL | Governance voting + early access |
 
 The product is **free forever**. Token is a premium tier unlock + governance mechanism, not a paywall.
 
@@ -156,6 +169,14 @@ MIT — do what you want, just don't pretend you wrote it.
 
 Built by people with brains that don't behave, for people with brains that don't behave.
 
-If this resonates, come say hi on [Twitter](https://x.com/soulshellai) or [Telegram](https://t.me/soulshellofficial).
+If this resonates, come say hi on [Twitter](https://x.com/soulshellai) or [Telegram](https://t.me/soulshellai).
 
 🧡
+
+---
+
+<div align="center">
+
+**[soulshell.xyz](https://soulshell.xyz)** · Built with care for chaotic minds
+
+</div>
